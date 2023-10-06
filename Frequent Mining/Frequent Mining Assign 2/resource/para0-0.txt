@@ -1,0 +1,6 @@
+MIS(39) = 0.50
+MIS(48) = 0.40
+MIS(38) = 0.30
+SDC = 0.9
+cannot_be_together: {39, 48}
+must-have: 65
